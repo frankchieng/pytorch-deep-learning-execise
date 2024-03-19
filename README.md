@@ -1,2 +1,2 @@
-# pytorch-deep-learning-execise
-exercise work of pytorch-deep-learning
+# pytorch-deep-learning-exercise
+implementing the exercise work of https://github.com/mrdbourke/pytorch-deep-learning
