@@ -5,3 +5,7 @@ i strongly recommend everyone who want to learn pytorch should learn about this 
 
 tips:
 i've modified the default tiny VGG model achitecture in 03_pytorch_computer_vision_exercise_solutions.ipynb, add BatchNorm2D and Dropout,just compare it with the orginal model,it turns out the new model generalized well on the test data,cuz solve the overfitting problem a little bit.
+
+you can contact me on weixin in mainland of China：
+
+![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
