@@ -20,6 +20,11 @@ efficientnet_b0 model trained after 10 epochs accuracy:
 the same training datasets and 10 epochs of efficientnet_b2 model accuracy:
 ![efficient_b2_accu_10epochs](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/70abcc82-663c-469d-9577-3f229f5dc01a)
 
+in 07_pytorch_experiment_tracking.ipynb i trained the whole food101 datasets classification downstream task with EfficientNet_B7 model under GTX 4090 GPU,it took around 11 mins, so if you want to optimized and gain more precise accuracy,you can increase the training epochs and it will take longer,anyway,it's so interesting to test with different raw data and finetuning,you should give a try.
+
+![截图 2024-03-22 18-06-49](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/29fed6f4-47f7-41bb-b1e4-38c387da0d4b)
+
+
 you can contact me on weixin in mainland of China：
 
 ![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
