@@ -14,6 +14,12 @@ in 05_pytorch_going_modular_script_mode.ipynb for implementing and adding the co
 
 in 06_pytorch_transfer_learning.ipynb you can fine-tuning the pre-trained models in torchvision.models like efficientnet_b0 and efficientnet_b2 with the last classified layer hyperparameters,after 10 epochs training,it turns out the EfficientNet_B2 convergence faster and stable than EfficientNet_B0,as a conclusion,like EfficientNet_B7 model,the model with more parameters and larger of size, performs much better than the smaller model
 
+efficientnet_b0 model trained after 10 epochs accuracy:
+![efficient_bo_accu_10epochs](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/585502f1-dd9a-46ed-9af2-b985293fd515)
+
+the same training datasets and 10 epochs of efficientnet_b2 model accuracy:
+![efficient_b2_accu_10epochs](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/70abcc82-663c-469d-9577-3f229f5dc01a)
+
 you can contact me on weixin in mainland of China：
 
 ![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
