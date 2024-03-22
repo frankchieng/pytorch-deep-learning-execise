@@ -12,7 +12,7 @@ in 04_pytorch_custom_datasets.ipynb exercise,after increase the dataset of Food1
 
 in 05_pytorch_going_modular_script_mode.ipynb for implementing and adding the command line parameters of training process, i just create another script file called train_cli_params.py, models can be saved and reload thr pytorch for prediction in predict.py
 
-in 06_pytorch_transfer_learning.ipynb you can fine-tuning the pre-trained models in torchvision.models like efficientnet_b0 and efficientnet_b2 with the last classified layer hyperparameters
+in 06_pytorch_transfer_learning.ipynb you can fine-tuning the pre-trained models in torchvision.models like efficientnet_b0 and efficientnet_b2 with the last classified layer hyperparameters,after 10 epochs training,it turns out the EfficientNet_B2 convergence faster and stable than EfficientNet_B0,as a conclusion,like EfficientNet_B7 model,the model with more parameters and larger of size, performs much better than the smaller model
 
 you can contact me on weixin in mainland of China：
 
