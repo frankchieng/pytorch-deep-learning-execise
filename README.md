@@ -12,7 +12,7 @@ in 04_pytorch_custom_datasets.ipynb exercise,after increase the dataset of Food1
 
 in 05_pytorch_going_modular_script_mode.ipynb for implementing and adding the command line parameters of training process, i just create another script file called train_cli_params.py, models can be saved and reload thr pytorch for prediction in predict.py
 
-in 06_pytorch_transfer_learning.ipynb you can fine-tuning the pre-trained models in torchvision.models like efficientnet_b0 and efficientnet_b2 with the last classified layer hyperparameters,it turns out b0 performs much better than b2 model,so when you choose a pre-trained model,you should choose X0,not like X1,X2 etc..
+in 06_pytorch_transfer_learning.ipynb you can fine-tuning the pre-trained models in torchvision.models like efficientnet_b0 and efficientnet_b2 with the last classified layer hyperparameters
 
 you can contact me on weixin in mainland of China：
 
