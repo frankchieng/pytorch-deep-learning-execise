@@ -1,7 +1,7 @@
 # pytorch-deep-learning-exercise
 implementing the exercise work of https://github.com/mrdbourke/pytorch-deep-learning
 
-datasets are under data directory
+datasets are under data directory, food101 is a big dataset around 4-5G, so i download the original dataset under data folder, and split the image to train and test folders with 04_custom_data_creation.ipynb
 
 i highly recommend anyone who want to learn pytorch should learn about this author's tutorial and finish the exercise work,happy coding
 
