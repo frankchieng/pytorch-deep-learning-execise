@@ -24,9 +24,17 @@ in 07_pytorch_experiment_tracking.ipynb i trained the whole food101 datasets cla
 
 ![截图 2024-03-22 18-06-49](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/29fed6f4-47f7-41bb-b1e4-38c387da0d4b)
 
-the the self-attention formula as below in the domain-specific of AI is the new holy grail as E=mc^2 of mass-energy equivalence
+vision transformer research pdf upload,you should read and learn end-to-end, the self-attention formula as below in the domain-specific of AI is the new holy grail as E=mc^2 of mass-energy equivalence
 
 ![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/dc5d4e48-bc6f-4168-951c-751b91225609)
+
+in 08_pytorch_paper_replicating.ipynb create a vision transformer architecture model from scratch, the vit_b_16 pre-trained model which built on vision transformer's accuracy performance higher than EfficientNet_B7 model,and the model size is about 10-11 times bigger than EfficientNet_B2,1.3 times bigger than EfficientNet_B2, so it's a trade-off you should make if you wanna a better performance or faster loading inference when you deploy online.
+
+vit_b_16 pre-trained model downstream task training metrics as below:
+![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/0b7a7aa9-b8a6-4df1-8ebe-e1fd4f0a8b9a)
+
+the vit_b_16 model classification accuracy of unseen image is much more deterministic
+![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/438d03f8-2597-4adb-bfa3-73018f3afb34)
 
 
 you can contact me on weixin in mainland of China：
