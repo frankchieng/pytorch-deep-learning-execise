@@ -24,7 +24,7 @@ in 07_pytorch_experiment_tracking.ipynb i trained the whole food101 datasets cla
 
 ![截图 2024-03-22 18-06-49](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/29fed6f4-47f7-41bb-b1e4-38c387da0d4b)
 
-![vision transformer research paper](https://github.com/frankchieng/pytorch-deep-learning-execise/blob/main/vision_transformer.pdf) uploaded,you should read and learn end-to-end, the self-attention formula as below in the domain-specific of AI is the new holy grail as E=mc^2 of mass-energy equivalence
+[vision transformer research paper](https://github.com/frankchieng/pytorch-deep-learning-execise/blob/main/vision_transformer.pdf) uploaded,you should read and learn end-to-end, the self-attention formula as below in the domain-specific of AI is the new holy grail as E=mc^2 of mass-energy equivalence
 
 ![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/dc5d4e48-bc6f-4168-951c-751b91225609)
 
