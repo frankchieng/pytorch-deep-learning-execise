@@ -39,6 +39,9 @@ the vit_b_16 model classification accuracy of unseen image is much more determin
 in 09_pytorch_model_deployment.ipynb,when you upload your trained model in gradio to huggingface space,some modifications have been made:First,when you git push your files,you should use the huggingface Access Tokens instead of your huggingface account password. Second,when you encount git push binary files like images or video files with this command(git lfs track "your_file" # or *.your_extension),if it failed,you should run git filter-branch --tree-filter 'rm -rf path/to/your/file' HEAD, then git push origin --force --all
 it's obvious the ViT architecture model outperform the efficient model in the end, so you should do a trade-off when you deploy a model with accuracy and inference speed.
 
+ViT-B/16 fine-tuning model with food101 around 100 thousand full-datasets 10 epochs training result:
+![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/0ae29516-d75c-461c-b5f3-660f91a009e3)
+
 you can check out my deployment [mini model of food101](https://huggingface.co/spaces/frank-chieng/foodvision_mini) or [big model of food101](https://huggingface.co/spaces/frank-chieng/foodvision_big)
 
 you can contact me on weixin in mainland of China：
