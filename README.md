@@ -67,6 +67,8 @@ $$
 
 > quote text
 
+### `[What are embeddings?](https://github.com/veekaybee/what_are_embeddings/)`
+
 you can contact me on weixin in mainland of China：
 
 ![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
