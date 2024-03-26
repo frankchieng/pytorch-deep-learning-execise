@@ -47,6 +47,25 @@ you can check out my deployment [mini model of food101](https://huggingface.co/s
 in A_Quick_PyTorch2.0_Tutorial.ipynb training and testing with pytorch2.x new feature torch.compile(model),especially the first epoch takes more time than the non-compile model(for warm up of optimization),the rest epochs will be less time compared to non-compile one,so if you training for longer and take the full advantage of your GPU metrics, like with more batch_size,more training datasets(in case of not OOM),the overall time will be shorter
 ![image](https://github.com/frankchieng/pytorch-deep-learning-execise/assets/130369523/13556aed-9599-4666-8ae1-1ddd32812a22)
 
+Markdown exmaples(include Latex syntax):
+# Header1
+## Header2
+### Header3
+
+text
+
+*italics*
+
+**bold**
+
+
+$$
+z =:\sum_{i=1}^{n} w_i x_i
+$$
+
+[Pytorch 2.0 tutorial](https://www.learnpytorch.io/pytorch_2_intro/)
+
+
 you can contact me on weixin in mainland of China：
 
 ![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
