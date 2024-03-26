@@ -67,7 +67,7 @@ $$
 
 > quote text
 
-`[What are embeddings?](https://github.com/veekaybee/what_are_embeddings/)`
+> [What are embeddings?](https://github.com/veekaybee/what_are_embeddings/)
 
 you can contact me on weixin in mainland of China：
 
