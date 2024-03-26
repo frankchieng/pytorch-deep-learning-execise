@@ -65,6 +65,7 @@ $$
 
 [Pytorch 2.0 tutorial](https://www.learnpytorch.io/pytorch_2_intro/)
 
+> quote text
 
 you can contact me on weixin in mainland of China：
 
