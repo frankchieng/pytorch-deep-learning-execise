@@ -65,6 +65,8 @@ $$
 
 $$ \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2 } $$
 
+$$ p_i = \text{softmax}(x_i) = \frac{e^{x_i}}{\sum_j e^{x_j}} $$
+
 [Pytorch 2.0 tutorial](https://www.learnpytorch.io/pytorch_2_intro/)
 
 > quote text
