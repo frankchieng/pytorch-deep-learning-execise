@@ -73,6 +73,9 @@ $$ p_i = \text{softmax}(x_i) = \frac{e^{x_i}}{\sum_j e^{x_j}} $$
 
 > [What are embeddings?](https://github.com/veekaybee/what_are_embeddings/)
 
+Nvidia [Chat with RTX](https://www.nvidia.com/en-gb/ai-on-rtx/chat-with-rtx-generative-ai/) includes Llama2 13B int4 and Mistral 7B int4 model as well as RAG implementation.You can also set up 
+> [RAG on Windows using TensorRT-LLM and LlamaIndex](https://github.com/NVIDIA/trt-llm-rag-windows)
+
 you can contact me on weixin in mainland of China：
 
 ![image](https://github.com/frankchieng/imagegeneration/blob/main/wechat.jpg)
