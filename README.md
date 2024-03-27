@@ -63,7 +63,7 @@ $$
 z =:\sum_{i=1}^{n} w_i x_i
 $$
 
-$$ \sqrt{ \frac{1}{n} \sum_i (x_i - \bar{x})^2 } $$
+$$ \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2 } $$
 
 [Pytorch 2.0 tutorial](https://www.learnpytorch.io/pytorch_2_intro/)
 
